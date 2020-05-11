@@ -1,0 +1,28 @@
+.App{
+margin: 0 auto;
+width: 50%;
+background-color: darkslategray;
+text-align: center;
+color: white;
+height: 700px;
+}
+input{
+  border-radius: 5px;
+  padding: 10px;
+  margin: 20px;
+}
+button{
+  border-radius: 5px;
+  padding: 10px;
+  margin: 20px;
+  background-color: teal;
+  color: white;
+  border: black solid 2px;
+}
+.complete{
+  color: red;
+  text-decoration: line-through;
+  }
+  h3{
+  padding-top: 40px;
+  }
